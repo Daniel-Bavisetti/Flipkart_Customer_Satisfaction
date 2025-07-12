@@ -93,8 +93,6 @@ git clone https://github.com/Daniel-Bavisetti/Flipkart_Customer_Satisfaction.git
 cd Flipkart_Customer_Satisfaction
 ```
 
-## ⚙️ Installation
-
 ### 2️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
