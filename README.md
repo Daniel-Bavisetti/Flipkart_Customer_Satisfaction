@@ -93,3 +93,46 @@ Class imbalance was handled using **SMOTE (Synthetic Minority Oversampling Techn
 ```bash
 git clone https://github.com/Daniel-Bavisetti/Flipkart_Customer_Satisfaction.git
 cd Flipkart_Customer_Satisfaction
+```
+
+## ⚙️ Installation
+
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3️⃣ Start Jupyter Notebook
+```bash
+jupyter notebook
+```
+Open and run the notebooks in the notebooks/ folder.
+
+## 🚀 Usage
+
+- Run `EDA_and_Feature_Engineering.ipynb` to explore and preprocess the data.  
+- Run `Model_Building_and_Evaluation.ipynb` to train and evaluate ML models.  
+- Explore `Visualization_Insights.ipynb` for 15+ charts and insights.  
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Python 3.9  
+- **Libraries:** pandas, NumPy, scikit-learn, XGBoost, matplotlib, seaborn, SHAP, NLTK  
+- **Tools:** Jupyter Notebook, Git, VS Code  
+
+---
+
+## 👨‍💻 Author
+
+Bavisetti Daniel  
+🔗 [GitHub](https://github.com/Daniel-Bavisetti)  
+🔗 [LinkedIn](https://www.linkedin.com/in/daniel-bavisetti/)  
+
+---
+
+## 🔗 Links
+
+- 📂 [Project Repository](https://github.com/Daniel-Bavisetti/Flipkart_Customer_Satisfaction)
+
+
