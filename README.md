@@ -29,8 +29,6 @@ The final XGBoost model predicts CSAT with **~89.2% accuracy**, enabling busines
 - [Installation](#-installation)  
 - [Usage](#-usage)  
 - [Tech Stack](#-tech-stack)  
-- [Contributing](#-contributing)  
-- [License](#-license)  
 - [Author](#-author)  
 
 ---
